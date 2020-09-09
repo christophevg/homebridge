@@ -1,0 +1,7 @@
+.env
+devices.json
+homebridge-dev
+homebridge-nhc2
+nhc2-hobby-api
+.python-version
+.uix-*
